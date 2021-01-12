@@ -6,29 +6,30 @@ In this unit, coders will create a Rock, Paper, Scissors game. To create this pr
 ## Day 1
 
 #### Planning
-- [ ] Copy the [project planning document](https://docs.google.com/document/d/1CCzFGH6Z4AtpWrDuB6KQK73N5-8ywGv0KhO10i3hZPk/edit#) and link a completed version in your ReadMe.
+- [x] Copy the [project planning document](https://docs.google.com/document/d/1CCzFGH6Z4AtpWrDuB6KQK73N5-8ywGv0KhO10i3hZPk/edit#) and link a completed version in your ReadMe.
+  - link: https://docs.google.com/document/d/1ga86NZsiomdrEZfQTKlDFpuimXiMq8X9nFevQ-orONI/edit
 
 #### Set-Up
 - [x] Go to the repository at https://github.com/itscodenation/rockpaperscissors
-- [ ] Fork this repository to your Github account and pull it down to Glitch
-- [ ] Look through all the Starter Code
+- [x] Fork this repository to your Github account and pull it down to Glitch
+- [x] Look through all the Starter Code
 
 ### JavaScript
-- [ ] Use JavaScript to display the value of the input on the page
+- [x] Use JavaScript to display the value of the input on the page
 
 ### HTML and CSS
-- [ ] Add any more HTML elements you will need to the page
-- [ ] Customize your HTML with CSS
+- [x] Add any more HTML elements you will need to the page
+- [x] Customize your HTML with CSS
 
 #### Wrap
-- [ ] Save and submit your website using the link on the session agenda.
+- [x] Save and submit your website using the link on the session agenda.
 
 ## Day 2
 
 ### Javascript 
 
-- [ ] Outside of your click handler, declare the variables you'll need to track the user choice, computer choice and winner and assign them values of empty strings.
-- [ ] Outside of your click handler, declare a randomNumber variable and set it equal to 0
+- [x] Outside of your click handler, declare the variables you'll need to track the user choice, computer choice and winner and assign them values of empty strings.
+- [x] Outside of your click handler, declare a randomNumber variable and set it equal to 0
 - [ ] When the user initiates the game, generate a random number and assign it to the randomNumber variable.
 - [ ] When the user initiates the game, store the user choice.
 - [ ] When the user initiates the game, display user choice to the screen.
